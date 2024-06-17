@@ -114,7 +114,7 @@
     }
     .video__bg{
         
-       
+       pointer-events: none;
        width: 100vw;
       
         
@@ -390,6 +390,7 @@
     }
     .questin__section{
        width: 100%;
+       cursor: pointer;
        display: flex;
        justify-content: space-between;
     }
@@ -892,7 +893,7 @@
     }
     .video__bg{
         
-       
+       pointer-events: none;
        height: 100lvh;
       
         
