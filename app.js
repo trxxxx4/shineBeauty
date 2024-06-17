@@ -133,7 +133,8 @@ if (displayWidth <= 1161){
        
         start: 'top top',
         end: 'bottom bottom',
-        pin: '.footer__image'
+        pin: '.footer__image',
+        markers: false
         
        
     })
